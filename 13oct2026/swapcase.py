@@ -1,2 +1,2 @@
 a  = "hello"
-print("hello")
+print("hello".swapcase())
