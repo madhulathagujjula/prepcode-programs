@@ -1,0 +1,1 @@
+print("hello.py".endswitch(".py"))
