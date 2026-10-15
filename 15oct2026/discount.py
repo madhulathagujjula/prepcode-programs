@@ -1,4 +1,5 @@
 price = int(input("enter the price:"))
 discount = int(input("enter the discount:"))
 discount_amount = price * (discount/100)
-prift( f" discount_amount)
+print( f" discount_amount {discount_amount}")
+print(f" final price : {price - discount_amount}")
